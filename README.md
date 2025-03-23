@@ -5,5 +5,3 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e estou aprendendo lin
 🌱 **Tecnologias que estou estudando:**
 - **Front End**: HTML, CSS, XAML
 - **Back End**: PHP, Java, C#, C
-
-![image](https://github.com/user-attachments/assets/ad461a66-3ba0-43ff-89a7-eec0e0347fb0)
