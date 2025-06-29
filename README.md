@@ -1,6 +1,6 @@
 ## Olá, eu sou a Rafaella Siqueira 👋
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** e estou aprendendo linguagens como **HTML**, **CSS**, **PHP**, **Java**, **C#** e **C**. Tenho interesse em **Front End** e estou buscando melhorar minhas habilidades e aplicar o que aprendo em novos projetos.
+Estou cursando **Análise e Desenvolvimento de Sistemas** e estou aprendendo linguagens como **HTML**, **CSS**, **PHP**, **Java**, **C#** e **C**. 
 
 🌱 **Tecnologias que estou estudando:**
 - **Front End**: HTML, CSS, XAML
